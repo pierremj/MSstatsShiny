@@ -1,0 +1,13 @@
+name: msstatsshiny16
+title: MSstatsShiny
+username: jeanbp
+account: jeanbp
+server: pfizer
+hostUrl: https://rsc.pfizer.com/__api__
+appId: 1597
+bundleId: 10896
+url: https://rsc.pfizer.com/msstats/
+when: 1666297142.04076
+lastSyncTime: 1666297142.04077
+asMultiple: FALSE
+asStatic: FALSE

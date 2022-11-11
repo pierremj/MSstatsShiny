@@ -12,7 +12,7 @@ library(knitr)
 library(readxl)
 library(DT)
 
-if (FALSE) require("V8")
+#if (FALSE) require("V8")
 #library(MSnbase)
 
 #####################################
